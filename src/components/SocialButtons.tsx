@@ -10,14 +10,14 @@ export function SocialButtons() {
 
     return (
         <SocialBtnList>
-            <a href="https://google.com">
+            <a href="https://www.instagram.com/baraohamburgueriaepetiscaria/">
                 <IconButton>
                     <IconBg>
                         <AiFillInstagram size={25} color={colors.text} />
                     </IconBg>
                 </IconButton>
             </a>
-            <a href="https://google.com">
+            <a href="https://api.whatsapp.com/send/?phone=5581971018315&text&type=phone_number&app_absent=0">
                 <IconButton>
                     <IconBg>
                         <RiWhatsappFill size={25} color={colors.text} />
