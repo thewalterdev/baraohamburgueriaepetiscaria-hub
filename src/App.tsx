@@ -20,12 +20,12 @@ const ButtonsList = [
   {
     title: "Promoção do dia",
     color: "#E6BB38",
-    link: "https://about:blank"
+    link: "https://www.instagram.com/p/CoA5iAZO9ie/"
   },
   {
     title: "Combos especiais",
     color: "#E63838",
-    link: "https://about:blank"
+    link: "https://www.instagram.com/p/CoA5iAZO9ie/"
   },
 ]
 
